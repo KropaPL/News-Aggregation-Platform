@@ -10,5 +10,5 @@ The Fast News section introduces a dynamic and engaging format for consuming new
 Drawing inspiration from platforms like Twitter, this feature adds contextual information and fact-checking annotations to news articles. Users are empowered to contribute to the fact-checking process by providing additional context, verifying sources, and flagging misinformation.
 * **User Comments**  
 Users can add comments to the news.
-* **Administrative Interface**
+* **Administrative Interface**  
 The platform includes an administrative interface facilitating interaction with ongoing operations such as news editing, comment moderation, and related functions.
